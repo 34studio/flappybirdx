@@ -1,0 +1,19 @@
+{
+"resources":
+	[
+        {"name":"config","type":"json","url":"config.json"},
+        {"name":"sprites","type":"sheet","url":"assets/sprites.json"},
+        {"name":"bgImage","type":"image","url":"assets/bg.jpg"},
+        {"name":"egretIcon","type":"image","url":"assets/egret_icon.png"},
+        {"name":"building","type":"image","url":"assets/buildings.jpg"},
+        {"name":"grass","type":"image","url":"assets/floor.jpg"},
+        {"name":"cloud","type":"image","url":"assets/clouds.jpg"},
+        {"name":"bird","type":"image","url":"assets/birds.png"},
+        {"name":"bird_json","type":"json","url":"assets/birds.json"}
+	],
+
+"groups":
+	[
+        {"name":"preload","keys":"config,bgImage,egretIcon,building,grass,cloud,sprites,bird,bird_json"}
+	]
+}

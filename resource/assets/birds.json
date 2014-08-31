@@ -1,0 +1,17 @@
+﻿{
+"res":{
+	"bird_fly0000": {"x":0,"y":0,"w":85,"h":60},
+	"bird_fly0001": {"x":85,"y":0,"w":85,"h":60},
+	"bird_fly0002": {"x":170,"y":0,"w":85,"h":60}
+},
+"frames": {
+	"fly": {
+		"totalFrame": 3,
+		"childrenFrame": [
+			{"res":"bird_fly0000","x":0,"y":0},
+			{"res":"bird_fly0001","x":0,"y":0},
+			{"res":"bird_fly0002","x":0,"y":0}
+		]
+	}
+}
+}

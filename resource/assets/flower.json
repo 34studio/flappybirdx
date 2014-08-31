@@ -1,0 +1,24 @@
+﻿{
+"res":{
+	"flower_down0000": {"x":0,"y":0,"w":64,"h":136},
+	"flower_down0001": {"x":64,"y":0,"w":64,"h":136},
+	"flower_up0000": {"x":128,"y":0,"w":64,"h":136},
+	"flower_up0001": {"x":192,"y":0,"w":64,"h":136}
+},
+"frames": {
+	"down": {
+		"totalFrame": 2,
+		"childrenFrame": [
+			{"res":"flower_down0000","x":0,"y":0},
+			{"res":"flower_down0001","x":0,"y":0}
+		]
+	},
+	"up": {
+		"totalFrame": 2,
+		"childrenFrame": [
+			{"res":"flower_up0000","x":0,"y":0},
+			{"res":"flower_up0001","x":0,"y":0}
+		]
+	}
+}
+}

@@ -1,0 +1,28 @@
+{
+    "speed": 3,
+    "floor": {
+        "HeightPercent": 0.2
+    },
+    "pipeline": {
+        "space": 150,
+        "reserve": {
+            "height": 100,
+            "width": 200
+        },
+        "speed" : 1,
+        "offset": {
+            "x": 800,
+            "y": 0
+        }
+    },
+    "bird": {
+        "location": {
+            "x": 200,
+            "y": 200
+        },
+        "frameRate": 10,
+        "vibFreq": 10,
+        "speed" : 1,
+        "flySpeed" : 10
+    }
+}
